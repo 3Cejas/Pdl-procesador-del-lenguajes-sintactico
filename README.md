@@ -1,1 +1,1 @@
-# pdl-procesador-del-lenguajes
+# pdl-procesador-del-lenguajes-sintáctico
